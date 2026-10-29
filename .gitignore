@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.DS_Store
+*.faiss
+*.index
+index_cache/
+.cache/
+*.log
+data/private/
+tmp_repositories/
